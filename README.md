@@ -1,4 +1,4 @@
-## 👋 Hey there! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30">
+##  Hey there! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30">
 
 I'm **Salma Hamdy**, a Software Tester / QA Engineer with experience in **manual testing**, **automation testing**, and **API testing**.  
 I enjoy ensuring product quality, finding bugs, and building clean test documentation and automation frameworks.
@@ -10,7 +10,7 @@ Feel free to connect with me:
 
 ---
 
-## 🌟 About Me
+##  About Me
 - Passionate about software quality and continuous improvement  
 - Strong experience in **writing test cases, bug reports, and executing test cycles**  
 - Comfortable working with **Agile, SDLC & STLC**  
@@ -19,7 +19,7 @@ Feel free to connect with me:
 
 ---
 
-## 🧪 Types of Testing I Work With
+##  Types of Testing I Work With
 
 - **Manual Testing**
 - **Automation Testing**
@@ -29,7 +29,7 @@ Feel free to connect with me:
 
 ## ⚡ Tools & Technologies
 
-### 🧪 QA & Testing Tools
+###  QA & Testing Tools
 ![Jira](https://img.shields.io/badge/-Jira-0052CC?style=flat-square&logo=jira)
 ![Trello](https://img.shields.io/badge/-Trello-0079BF?style=flat-square&logo=trello)
 ![Postman](https://img.shields.io/badge/-Postman-orange?style=flat-square&logo=postman)
@@ -43,7 +43,7 @@ Feel free to connect with me:
 ![Listeners](https://img.shields.io/badge/-TestNG%20Listeners-5A0FC8?style=flat-square)
 ![Cucumber](https://img.shields.io/badge/-Cucumber-23D96C?style=flat-square&logo=cucumber)
 
-### 🔧 Development Tools
+###  Development Tools
 ![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-000000?style=flat-square&logo=intellij-idea)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
