@@ -36,6 +36,7 @@ Feel free to connect with me:
 ![JMeter](https://img.shields.io/badge/-JMeter-D22128?style=flat-square&logo=apache-jmeter)
 
 ### 💻 Programming & Automation
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B)
 ![Java](https://img.shields.io/badge/-Java-E34A86?style=flat-square&logo=java)
 ![Selenium](https://img.shields.io/badge/-Selenium-43B02A?style=flat-square&logo=selenium)
 ![OOP](https://img.shields.io/badge/-OOP-000000?style=flat-square)
@@ -47,6 +48,10 @@ Feel free to connect with me:
 ![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-000000?style=flat-square&logo=intellij-idea)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+
+### 🗄️ Databases
+![SQL](https://img.shields.io/badge/-SQL-003B57?style=flat-square&logo=postgresql)
+![MySQL](https://img.shields.io/badge/-MySQL-000000?style=flat-square&logo=mysql)
 
 ---
 
