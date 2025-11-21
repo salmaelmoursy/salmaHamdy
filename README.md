@@ -25,13 +25,6 @@ Feel free to connect with me:
 - **Automation Testing**
 - **API Testing**
 - **Performance Testing**
-- **Smoke / Sanity Testing**
-- **Regression Testing**
-- **Functional & Non-Functional Testing**
-- **UI/UX Testing**
-- **Cross-Browser Testing**
-- **Integration Testing**
-
 ---
 
 ## ⚡ Tools & Technologies
@@ -41,10 +34,10 @@ Feel free to connect with me:
 ![Trello](https://img.shields.io/badge/-Trello-0079BF?style=flat-square&logo=trello)
 ![Postman](https://img.shields.io/badge/-Postman-orange?style=flat-square&logo=postman)
 ![JMeter](https://img.shields.io/badge/-JMeter-D22128?style=flat-square&logo=apache-jmeter)
-![Selenium](https://img.shields.io/badge/-Selenium-43B02A?style=flat-square&logo=selenium)
 
 ### 💻 Programming & Automation
 ![Java](https://img.shields.io/badge/-Java-E34A86?style=flat-square&logo=java)
+![Selenium](https://img.shields.io/badge/-Selenium-43B02A?style=flat-square&logo=selenium)
 ![OOP](https://img.shields.io/badge/-OOP-000000?style=flat-square)
 ![POM](https://img.shields.io/badge/-Page%20Object%20Model-4B8BBE?style=flat-square)
 ![Listeners](https://img.shields.io/badge/-TestNG%20Listeners-5A0FC8?style=flat-square)
@@ -52,20 +45,8 @@ Feel free to connect with me:
 
 ### 🔧 Development Tools
 ![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-000000?style=flat-square&logo=intellij-idea)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
 ---
 
-## 📊 GitHub Stats
-
-![Github Stats](https://github-readme-stats.vercel.app/api?username=salmahamdy&count_private=true&show_icons=true&include_all_commits=true)
-
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=salmahamdy.profile)
-
----
-
-## 📫 Reach Me
-📧 Email: **salma.hamdy.14801@gmail.com**  
-🔗 LinkedIn: **https://www.linkedin.com/in/salma-elmoursy-56475b1ba**
